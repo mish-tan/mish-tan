@@ -1,5 +1,5 @@
 <div align=center> 
-### Just Your Average Coding Witch 👩‍💻✨
+ <h1>Just Your Average Coding Witch 👩‍💻✨</h1>
 
 <div>
  <p>

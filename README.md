@@ -1,6 +1,5 @@
 <div align=center> 
-
-[![SVG Banners](https://svg-banners.vercel.app/api?type=typeWriter&text1=Just%20Your%20Average%20Coding%20Witch%20👩‍💻✨♀️&width=800&height=150)](https://github.com/Akshay090/svg-banners)
+### Just Your Average Coding Witch 👩‍💻✨
 
 <div>
  <p>

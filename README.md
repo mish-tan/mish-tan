@@ -1,4 +1,12 @@
-### Hi there 👋
+ [![SVG Banners](https://svg-banners.vercel.app/api?type=typeWriter&text1=Just%20Your%20Average%20Coding%20Witch%20👩‍💻✨♀️&width=800&height=200)](https://github.com/Akshay090/svg-banners)
+
+<div>
+  What people think I do:
+  <img src="https://user-images.githubusercontent.com/20408713/204510557-e2be2e73-65b5-4c8f-9f82-8669230cff90.jpg" alt="todo" width="350"/>
+  What I actually do:
+  <img src="https://user-images.githubusercontent.com/20408713/204510758-1fbf8024-8962-4be1-b57e-9ef29a233441.jpg" alt="todo" width="350"/>
+</div>
+
 
 <!--
 **mish-tan/mish-tan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

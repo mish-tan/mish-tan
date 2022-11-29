@@ -3,6 +3,8 @@
 <div>
   What people think I do:
   <img src="https://user-images.githubusercontent.com/20408713/204510557-e2be2e73-65b5-4c8f-9f82-8669230cff90.jpg" alt="todo" width="350"/>
+</div>
+<div>
   What I actually do:
   <img src="https://user-images.githubusercontent.com/20408713/204510758-1fbf8024-8962-4be1-b57e-9ef29a233441.jpg" alt="todo" width="350"/>
 </div>
